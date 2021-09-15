@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010832814014",
+    "project_id": "testproject-379c7",
+    "storage_bucket": "testproject-379c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010832814014:android:d9ed3b1c84265dc07ed3ef",
+        "android_client_info": {
+          "package_name": "com.example.memorizegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010832814014-kmcc000r7udb8h1bd3c16jbrq3beqo94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorizegame",
+            "certificate_hash": "3cc5822b1e3c3bf881ab62d6bdfbd2b30172a0fd"
+          }
+        },
+        {
+          "client_id": "1010832814014-ncjg9pj90mmces3orhs3v52b2e6uoi0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn697R4hPYD71GnUeoaZ8N7ZlAUIEeWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010832814014-ncjg9pj90mmces3orhs3v52b2e6uoi0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
